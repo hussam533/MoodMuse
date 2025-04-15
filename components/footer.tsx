@@ -16,7 +16,7 @@ export function Footer() {
             Privacy
           </Link>
           <a
-            href="https://github.com/hussamjabar"
+            href="https://github.com/hussam533/MoodMuse"
             target="_blank"
             rel="noopener noreferrer"
             className="text-sm text-muted-foreground hover:text-foreground"
